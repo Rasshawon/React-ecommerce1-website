@@ -1,0 +1,130 @@
+[
+    {
+        "id":1,
+       "title":"Adidas Classics Joggers",
+       "category": "Dress",
+       "prevPrice":80,
+       "newPrice": 67,
+        "image":"../public/images/Cards-img/Adicolor_Classics_3-Stripes_Joggers_Black_GN3458_21_model.avif",
+        "status": "Best sellers"
+    },
+    {
+        "id":2,
+       "title":"Armani Fragrance",
+       "category": "Perfume",
+       "prevPrice":150,
+       "newPrice": 130,
+       "image":"../public/images/Cards-img/Sydney-Sweeney-Armani-Beauty-010423-3-7d45e56715ee402eae18adc04f173f2d.jpg",
+       "status": "Best sellers"
+    },
+    {
+        "id":3,
+       "title":"Geometric print Scarf",
+       "category": "Dress",
+       "prevPrice":60,
+       "newPrice": 53,
+       "image":"../public/images/Cards-img/-473Wx593H-464178057-multi-MODEL2.avif",
+       "status": "Best sellers"
+    },
+    {
+        "id":4,
+       "title":"Grey Puma Core Logo Overhead Hoodie",
+       "category": "Hoodies",
+       "prevPrice":72,
+       "newPrice": 63,
+       "image":"../public/images/Cards-img/jd_674416_a.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":5,
+       "title":"Nike Black jacket",
+       "category": "Dress",
+       "prevPrice":250,
+       "newPrice": 236,
+       "image":"../public/images/Cards-img/-1117Wx1400H-469038383-black-MODEL.avif",
+       "status": "Best sellers"
+    },
+    {
+        "id":6,
+       "title":"Nike Air Zoom Pegasus",
+       "category": "Shoe",
+       "prevPrice":210,
+       "newPrice": 190,
+       "image":"../public/images/Cards-img/4b946732-32a5-4945-9cc1-0ad00112a647-500x500.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":7,
+       "title":"Nike Repel Miler",
+       "category": "Hoodies",
+       "prevPrice":140,
+       "newPrice": 125,
+       "image":"../public/images/Cards-img/d6f51272-6e10-4dcc-b2f7-1d563f3a62bb.webp",
+       "status": "Best sellers"
+    },
+    {
+        "id":8,
+       "title":"Men's Panjabi - YELLOW",
+       "category": "Glasses",
+       "prevPrice":170,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/DSC2259_a05a4310-61e6-4a3d-9ebb-196fbf40c3b5_1024x1024.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":9,
+       "title":"Nike Sportswear Future Luxe",
+       "category": "Glasses",
+       "prevPrice":170,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/406710e7-7c11-47eb-9bcf-5d6431f76a8a.webp",
+       "status": "Best sellers"
+    },
+    {
+        "id":10,
+       "title":"Curran Watch",
+       "category": "Watches",
+       "prevPrice":175,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/Tommy-Hilfiger-Stylist--best-watches-in-india-bewakoof-blog-4-1629877235.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":11,
+       "title":"Richard Mille watches",
+       "category": "Watches",
+       "prevPrice":180,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/the-company-has-successfully-created-a-sense-of-exclusivity-and-demand-for-its-products-contributing-to-its-rise-in-the-luxury-watch-industry-.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":12,
+       "title":"Sunglasses Polarized Avi |",
+       "category": "Sunglasses",
+       "prevPrice":170,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/Hf4a713020f954eb1b556ecfec2eb64c4q.jpg_640x640Q90.jpg_.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":13,
+       "title":"Sunglasses UV400 ",
+       "category": "Sunglasses",
+       "prevPrice":180,
+       "newPrice": 160,
+       "image":"../public/images/Cards-img/s-l1200.webp",
+       "status": "New Arrival"
+    },
+    {
+        "id":14,
+       "title":"Gucci Sunglasses",
+       "category": "Sunglasses",
+       "prevPrice":70,
+       "newPrice": 60,
+       "image":"../public/images/Cards-img/Gucci.avif",
+       "status": "Best sellers"
+    }
+
+]
+   
