@@ -9,10 +9,10 @@ const Newletters = () => {
       </h2>
         {/* insta grid */}
         <div className='flex flex-wrap gap-2 items-center justify-center mb-20  '>
-            <Link><img src="../../../public/images/Cards-img/insta/1578316070_424_0a1e5400aa3da2e5497747f04b1a2450.jpg" alt="" /></Link>
-            <Link><img src="../../../public/images/Cards-img/insta/4.png" alt="" className="" /></Link>
-            <Link><img src="../../../public/images/Cards-img/insta/1.-Kendall-Jenner.jpg" alt="" /></Link>
-            <Link><img src="../../../public/images/Cards-img/insta/lucky-blue-smith.jpg" alt="" /></Link>
+            <Link><img src="/images/Cards-img/insta/1578316070_424_0a1e5400aa3da2e5497747f04b1a2450.jpg" alt="" /></Link>
+            <Link><img src="/images/Cards-img/insta/4.png" alt="" className="" /></Link>
+            <Link><img src="/images/Cards-img/insta/1.-Kendall-Jenner.jpg" alt="" /></Link>
+            <Link><img src="/images/Cards-img/insta/lucky-blue-smith.jpg" alt="" /></Link>
             
         </div>
           {/* newsletter */}
