@@ -25,7 +25,7 @@ const Category = () => {
           Explore new & gorgeous fashion
         </p>
         <div>
-            <Link to="https://www.imdb.com/name/nm0424060/"><img src="/public/images/Category-img/1.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200"/></Link>
+            <Link to="https://www.imdb.com/name/nm0424060/"><img src="/images/Category-img/1.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200"/></Link>
         </div>
         <div  className="md:w-1/2">
             <div className="grid grid-cols-2 gap-6">
