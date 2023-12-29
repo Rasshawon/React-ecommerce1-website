@@ -29,10 +29,10 @@ const Category = () => {
         </div>
         <div  className="md:w-1/2">
             <div className="grid grid-cols-2 gap-6">
-            <Link to="https://www.imdb.com/name/nm1165110/"><img src="/public/images/Category-img/2.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
-            <Link to="https://www.pexels.com/@vanyaoboleninov/stats/"><img src="/public/images/Category-img/3.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
-            <Link to="https://en.wikipedia.org/wiki/David_Beckham"><img src="/public/images/Category-img/4.jpeg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
-            <Link to="https://www.pexels.com/@vanyaoboleninov/stats/"><img src="/public/images/Category-img/pexels-ivan-oboleninov-2916814.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
+            <Link to="https://www.imdb.com/name/nm1165110/"><img src="/images/Category-img/2.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
+            <Link to="https://www.pexels.com/@vanyaoboleninov/stats/"><img src="/images/Category-img/3.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
+            <Link to="https://en.wikipedia.org/wiki/David_Beckham"><img src="/images/Category-img/4.jpeg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
+            <Link to="https://www.pexels.com/@vanyaoboleninov/stats/"><img src="/images/Category-img/pexels-ivan-oboleninov-2916814.jpg" alt="" className="w-full hover:scale-105 transition-all duration-200" /></Link>
 
             </div>
         </div>
